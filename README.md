@@ -1,2 +1,2 @@
-# algorithm_scala
-algorithm scala
+# 算法项目
+本项目是算法项目的scala版，主要是学习scala的语法用途，算法方面没有新的东西，相当于将算法项目重新用scala翻译了一遍
